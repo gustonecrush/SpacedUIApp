@@ -1,0 +1,33 @@
+export default Places = [
+  {
+    id: 1,
+    name: "Lofary Vibalday",
+    location: "Africa, Earth",
+    rating: 4.6,
+    bitcoin: "1.00",
+    image: require("../../assets/images/places/1.png"),
+    bg: require("../../assets/images/places/bg-place.png"),
+    category: "Nature",
+    desc: "The Vibalday, a collection of more than a thousand islands in the Indian Ocean, is known for its clear emerald waters, beautiful beaches that stretch as far as the eye can see, and of course, luxurious overwater bungalows. With features like these, the archipelago makes for an idyllic sanctuary where guests can snorkel, scuba dive, swim, and savor some truly unforgettable sunsets",
+  },
+  {
+    id: 2,
+    name: "The Honey Wales",
+    location: "T-Px14, Jupiter",
+    rating: 4.6,
+    bitcoin: "0.50",
+    image: require("../../assets/images/places/2.png"),
+    category: "Futuristic",
+    desc: "The Vibalday, a collection of more than a thousand islands in the Indian Ocean, is known for its clear emerald waters, beautiful beaches that stretch as far as the eye can see, and of course, luxurious overwater bungalows. With features like these, the archipelago makes for an idyllic sanctuary where guests can snorkel, scuba dive, swim, and savor some truly unforgettable sunsets",
+  },
+  {
+    id: 3,
+    name: "Land of Ice",
+    location: "Warless, Uranus",
+    rating: 4.6,
+    bitcoin: "0.20",
+    image: require("../../assets/images/places/3.png"),
+    category: "Park",
+    desc: "The Vibalday, a collection of more than a thousand islands in the Indian Ocean, is known for its clear emerald waters, beautiful beaches that stretch as far as the eye can see, and of course, luxurious overwater bungalows. With features like these, the archipelago makes for an idyllic sanctuary where guests can snorkel, scuba dive, swim, and savor some truly unforgettable sunsets",
+  },
+];
